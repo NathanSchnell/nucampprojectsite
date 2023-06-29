@@ -20,8 +20,8 @@ footer {
 }
 
 .jumbotron {
+    margin:0;
     padding: 30px;
-    margin: 0;
     background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
 }
